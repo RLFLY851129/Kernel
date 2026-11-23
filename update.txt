@@ -1,2 +1,2 @@
-Forceupdate = true
+Forceupdate = false
 CustomizeURL = "https://t.me/devilRahul_op?text=I%20want%20to%20buy%20premium%20key"
