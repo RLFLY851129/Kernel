@@ -1,4 +1,4 @@
 TargetVersion = "ROOTDIE"
 Forceupdate = false
 CustomizeURL = "https://t.me/RLFLY_OFFICIAL"
-v1, AUTODIE,ROOT32,ROOTDIE
+v1, AUTODIE, ROOT32 ,ROOTDIE
