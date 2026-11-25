@@ -1,3 +1,4 @@
-TargetVersion = "AUTODIE,V1"
-Forceupdate = false
+TargetVersion = "ROOTDIE"
+Forceupdate = true
 CustomizeURL = "https://t.me/RLFLY_OFFICIAL"
+v1, AUTODIE
