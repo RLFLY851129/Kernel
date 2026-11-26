@@ -1,4 +1,4 @@
-TargetVersion = "V1"
+TargetVersion = "V1,V2"
 Forceupdate = true 
 CustomizeURL = "https://t.me/RLFLY_OFFICIAL"
-V2, AUTODIE, ROOT32 ,ROOTDIE, BGMIAIRV1
+V3, AUTODIE, ROOT32 ,ROOTDIE, BGMIAIRV1
